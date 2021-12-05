@@ -9,7 +9,7 @@ My name is Zaher Ghaibeh, Master's student in Entrepreneurship and Innovation Ma
 
 On the profissional side, I am a backend (full-stack) developer and an entrepreneur. I live in Turkey near Istanbul and I love new shiny technology (but I code mainly in PHP). I use Laravel, VueJS, LiveWire, AlpineJS, TailwindCSS and Docker in my work.
 
-<a href="https://github.com/zaherg"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaherg&show_icons=true&count_private=true&include_all_commits=false&theme=dracula" align="right" height="250" /></a>
+<a href="https://github.com/zaherg"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaherg&theme=dracula&layout=compact" align="right" height="150" /></a>
 
 In Feb 2010, I built (with the help of my friend) and released the beta version of a SaaS product called [Msrofi](https://thenextweb.com/news/msrofi-com-easier-arabic-financial-decisions), a personal financil SaaS project, sadly we had to close it in 2012 due to many issue part of it financial issues, remember this project was lucned in Syria in 2010.
 
