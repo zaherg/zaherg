@@ -5,7 +5,7 @@
 <a href="https://github.com/zaherg"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=zaherg&show_icons=true&count_private=true&include_all_commits=false&theme=dracula" align="right" height="150" /></a>
 
 
-My name is Zaher Ghaibeh, currently I am a Master's student in Entrepreneurship and Innovation Management at [Bahcesehir](http://bau.edu.tr/) University.
+My name is Zaher Ghaibeh, Master's student in Entrepreneurship and Innovation Management at [Bahcesehir](http://bau.edu.tr/) University.
 
 On the profissional side, I am a backend (full-stack) developer and an entrepreneur. I live in Turkey near Istanbul and I love new shiny technology (but I code mainly in PHP). I use Laravel, VueJS, LiveWire, AlpineJS, TailwindCSS and Docker in my work.
 
