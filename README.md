@@ -11,7 +11,7 @@ On the profissional side, I am a backend (full-stack) developer and an entrepren
 <a href="https://github.com/zaherg"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=zaherg&show_icons=true&count_private=true&include_all_commits=false&theme=dracula" height="150" /></a>
     
 </details>
-<br/>
+
 <details>
     <summary> <samp> 🧑‍💻 Programming Languages</samp></summary>
 <br/>
