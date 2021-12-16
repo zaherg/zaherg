@@ -33,6 +33,7 @@ Lastly, you can reach me via one of the following methods/networks:
 
 
 [![Email](https://img.shields.io/badge/Email-155d96?logo=Gmail&logoColor=white)](mailto:zaher@zaher.dev)
+[![Github](https://img.shields.io/badge/Github-000000?logo=github&logoColor=white)](https://twitter.com/zaherg)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/zaherg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaherg/)
 
