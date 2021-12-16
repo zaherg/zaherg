@@ -20,6 +20,7 @@ On the profissional side, I am a backend (full-stack) developer and an entrepren
 
 </details>
 
+
 In Feb 2010, I built (with the help of my friend) and released the beta version of a SaaS product called [Msrofi](https://thenextweb.com/news/msrofi-com-easier-arabic-financial-decisions), a personal financil SaaS project, sadly we had to close it in 2012 due to many issue part of it financial issues, remember this project was lucned in Syria in 2010.
 
 In 2015, I wrote a book called [Building Web Applications Using Parse REST API
