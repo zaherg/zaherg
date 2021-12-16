@@ -8,18 +8,19 @@ On the profissional side, I am a backend (full-stack) developer and an entrepren
     <summary> <samp> 📊 GitHub stats</samp></summary>
 <br/>
 
-![Zaher GitHub stats](https://github-readme-stats.vercel.app/api?username=zaherg&show_icons=true&count_private=true&include_all_commits=false&theme=dracula)
-
+<a href="https://github.com/zaherg"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=zaherg&show_icons=true&count_private=true&include_all_commits=false&theme=dracula" height="150" /></a>
+    
 </details>
-
+<br/>
 <details>
     <summary> <samp> 🧑‍💻 Programming Languages</samp></summary>
 <br/>
 
-![Most used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaherg&theme=dracula&layout=compact)
+<a href="https://github.com/zaherg"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaherg&show_icons=true&count_private=true&include_all_commits=false&theme=dracula" height="250" /></a>
 
 </details>
 
+<br/>
 
 In Feb 2010, I built (with the help of my friend) and released the beta version of a SaaS product called [Msrofi](https://thenextweb.com/news/msrofi-com-easier-arabic-financial-decisions), a personal financil SaaS project, sadly we had to close it in 2012 due to many issue part of it financial issues, remember this project was lucned in Syria in 2010.
 
