@@ -29,6 +29,7 @@ In 2015, I wrote a book called [Building Web Applications Using Parse REST API
 
 In mid 2019 I built [Domain Book App](https://domainbook.dev), an easy and straightforward way to monitor your domains' expiration date. It is like a phonebook for your domains, it is built using VueJS and ElectronJs.
 
+Currently, I am working as a freelancer helping other companies achieve their goals.
 
 Lastly, you can reach me via one of the following methods/networks:
 
