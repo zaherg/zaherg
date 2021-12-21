@@ -1,6 +1,6 @@
 ### <samp>Hi there 👋 </samp>
 
-My name is Zaher Ghaibeh ([http://pronoun.is/he](http://pronoun.is/he)), a Syrian living in Istanbul. Currently I am a Master's student in Entrepreneurship and Innovation Management at [Bahcesehir](http://bau.edu.tr/) University.
+My name is Zaher Ghaibeh ([http://pronoun.is/he](http://pronoun.is/he)), Syrian living in Istanbul. Currently I am a Master's student in Entrepreneurship and Innovation Management at [Bahcesehir](http://bau.edu.tr/) University.
 
 On the profissional side, I am a backend (full-stack) developer and an entrepreneur. I live in Turkey near Istanbul and I love new shiny technology (but I code mainly in PHP). I use Laravel, VueJS, LiveWire, AlpineJS, TailwindCSS and Docker in my work.
 
