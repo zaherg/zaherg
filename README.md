@@ -1,5 +1,7 @@
 ### <samp>Hi there 👋 </samp>
 
+<img src="https://res.cloudinary.com/zaher/image/upload/ar_1:1,bo_0px_solid_rgb:ffffff,c_fill,dpr_auto,f_webp,g_face:center,h_253,r_max,w_240,z_0.6/v1578997598/zahme-site/IMG_4355_face.jpg" height="253" align="right"/>
+
 My name is Zaher Ghaibeh ([http://pronoun.is/he](http://pronoun.is/he)), Syrian living in Istanbul. Currently I am a Master's student in Entrepreneurship and Innovation Management at [Bahcesehir](http://bau.edu.tr/) University.
 
 On the profissional side, I am a backend (full-stack) developer and an entrepreneur. I live in Turkey near Istanbul and I love new shiny technology (but I code mainly in PHP). I use Laravel, VueJS, LiveWire, AlpineJS, TailwindCSS and Docker in my work.
