@@ -1,6 +1,13 @@
-title: Hi there 👋  | Zaher Ghaibeh
+title: Zaher Ghaibeh's Site
 author:
   twitter: zaherg
 twitter:
   username: zaherg
   card: summary
+social:
+  name: Zaher Ghaibeh
+  links:
+    - https://twitter.com/zaherg
+    - https://www.linkedin.com/in/zaherg
+    - https://github.com/zaherg
+    - https://hub.docker.com/u/zaherg
