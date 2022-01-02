@@ -4,6 +4,9 @@ author:
 twitter:
   username: zaherg
   card: summary
+  title: Zaher Ghaibeh's Site
+og:
+  title: Zaher Ghaibeh's Site  
 social:
   name: Zaher Ghaibeh
   links:
@@ -11,5 +14,3 @@ social:
     - https://www.linkedin.com/in/zaherg
     - https://github.com/zaherg
     - https://hub.docker.com/u/zaherg
-page:
-  title: Hello
