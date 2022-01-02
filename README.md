@@ -4,7 +4,7 @@
 
 My name is Zaher Ghaibeh ([http://pronoun.is/he](http://pronoun.is/he)), Syrian living in Istanbul. Currently I am a Master's student in Entrepreneurship and Innovation Management at [Bahcesehir](http://bau.edu.tr/) University.
 
-On the profissional side, I am a backend (full-stack) developer and an entrepreneur. I live in Turkey near Istanbul and I love new shiny technology (but I code mainly in PHP). I use Laravel, VueJS, LiveWire, AlpineJS, TailwindCSS and Docker in my work.
+On the profissional side, I am a backend (full-stack) developer and an entrepreneur. I live in Turkey near Istanbul and I love new shiny technology (but I code mainly in PHP). I use `Laravel`, `VueJS`, `LiveWire`, `AlpineJS`, `TailwindCSS` and `Docker` in my work.
 
 <details>
     <summary> <samp> 📊 GitHub stats</samp></summary>
@@ -24,12 +24,12 @@ On the profissional side, I am a backend (full-stack) developer and an entrepren
 
 <br/>
 
-In Feb 2010, I built (with the help of my friend) and released the beta version of a SaaS product called [Msrofi](https://thenextweb.com/news/msrofi-com-easier-arabic-financial-decisions), a personal financial SaaS project, sadly we had to close it in 2012 due to many issues part of them were financial issues, remember this project was lucned in Syria in 2010.
+In Feb 2010, I built (with the help of my friend) and released the beta version of a SaaS product called [Msrofi](https://thenextweb.com/news/msrofi-com-easier-arabic-financial-decisions), a personal financial SaaS project, sadly we had to close it in 2012 due to many issues part of them were financial issues, remember this project was launched in Syria in 2010.
 
 In 2015, I wrote a book called [Building Web Applications Using Parse REST API
-](https://leanpub.com/building-web-applications-using-parse-rest-api), where I share some tips of how to use Parse.com as a data-store for a real application.
+](https://leanpub.com/building-web-applications-using-parse-rest-api), where I shared some tips of how to use `Parse.com` as a data-store for a real application.
 
-In mid 2019 I built [Domain Book App](https://domainbook.dev), an easy and straightforward way to monitor your domains' expiration date. It is like a phonebook for your domains, it is built using VueJS and ElectronJs.
+In mid 2019 I built [Domain Book App](https://domainbook.dev), an easy and straightforward way to monitor your domains' expiration date. It is like a phonebook for your domains, it is built using `VueJS` and `ElectronJs`.
 
 Currently, I am working as a freelancer helping other companies achieve their goals.
 
