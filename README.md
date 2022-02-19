@@ -4,7 +4,7 @@
 
 My name is Zaher Ghaibeh ([http://pronoun.is/he](http://pronoun.is/he)), Syrian living in Istanbul. I have graduated recently from [Bahcesehir](http://bau.edu.tr/) University with a Master's  in Entrepreneurship and Innovation Management (Class 2022).
 
-On the profissional side, I am a backend (full-stack) developer and an entrepreneur. I live in Turkey near Istanbul and I love new shiny technology (but I code mainly in PHP). I use `Laravel`, `VueJS`, `LiveWire`, `AlpineJS`, `TailwindCSS` and `Docker` in my work.
+On the profissional side, I work as a senior backend (full-stack) developer and an entrepreneur. I live in Istanbul and I love new shiny technology (but I code mainly in PHP). I use `Laravel`, `VueJS`, `LiveWire`, `AlpineJS`, `TailwindCSS` and `Docker` in my work.
 
 <details>
     <summary> <samp> 📊 GitHub stats</samp></summary>
