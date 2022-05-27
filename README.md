@@ -4,7 +4,7 @@
 
 My name is Zaher ('za-her) Ghaibeh ([http://pronoun.is/he](http://pronoun.is/he)), Syrian living in Istanbul. I have graduated recently from [Bahcesehir](http://bau.edu.tr/) University with a Master's  in Entrepreneurship and Innovation Management (Class 2022), also, I hold a Bachelor degree in Information technology (2009) & a Diploam in Computing and Business applications (2006) from the Syrian Virtual University, lastly, I hold also a Dimploam in Information Technology (2003) from Damascus University.
 
-On the profissional side, I work as a senior backend (full-stack) developer and an entrepreneur. I love new shiny technologies (but I code mainly in PHP). I use `Laravel`, `VueJS`, `LiveWire`, `AlpineJS`, `TailwindCSS` and `Docker` in my work.
+On the professional side, I work as a senior backend (full-stack) developer and an entrepreneur. I love new shiny technologies (but I code mainly in PHP). I use `Laravel`, `VueJS`, `LiveWire`, `AlpineJS`, `TailwindCSS` and `Docker` in my work.
 
 <details>
     <summary> <samp> 📊 GitHub stats</samp></summary>
