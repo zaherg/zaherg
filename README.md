@@ -41,3 +41,6 @@ Lastly, you can reach me via one of the following methods/networks:
 [![Docker Hub](https://img.shields.io/badge/Docker-309cef?logo=docker&logoColor=white)](https://hub.docker.com/u/zaherg)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/zaherg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaherg/)
+
+
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "5e67265b635c46c08536b0f56a188c30"}'></script><!-- End Cloudflare Web Analytics -->
