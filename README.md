@@ -1,6 +1,6 @@
 ### <samp>Hi there 👋 </samp>
 
-<img src="https://res.cloudinary.com/zaher/image/upload/ar_1:1,bo_0px_solid_rgb:000000,c_fill,dpr_auto,e_unsharp_mask:100,f_webp,g_face:center,h_253,r_max,w_240,z_0.6/v1578997598/zahme-site/IMG_4355_face.jpg" height="253" align="right"/>
+<img src="https://res.cloudinary.com/zaher/image/upload/ar_1:1,bo_0px_solid_rgb:000000,c_fill,dpr_auto,e_unsharp_mask:100,f_webp,g_face:center,h_253,r_max,w_240,z_0.6/v1578997598/zahme-site/IMG_4355_face.jpg" height="253" align="right" />
 
 My name is Zaher ('za-her) Ghaibeh ([http://pronoun.is/he](http://pronoun.is/he)), Syrian living in Istanbul. I have graduated recently from [Bahcesehir](http://bau.edu.tr/) University with a Master's  in Entrepreneurship and Innovation Management (Class 2022), also, I hold a Bachelor degree in Information technology (2009) & a Diploam in Computing and Business applications (2006) from the Syrian Virtual University, lastly, I hold also a Dimploam in Information Technology (2003) from Damascus University.
 
