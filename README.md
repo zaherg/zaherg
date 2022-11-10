@@ -40,6 +40,6 @@ Lastly, you can reach me via one of the following methods/networks:
 [![Github](https://img.shields.io/badge/Github-000000?logo=github&logoColor=white)](https://github.com/zaherg)
 [![Docker Hub](https://img.shields.io/badge/Docker-309cef?logo=docker&logoColor=white)](https://hub.docker.com/u/zaherg)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/zaherg)
+[![Mastodon](https://img.shields.io/badge/Mastodon-0077B5?logo=mastodon&logoColor=white)](https://phpc.social/@zaherg){:rel="me"}
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaherg/)
-
 
