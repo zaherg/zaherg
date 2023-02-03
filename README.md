@@ -29,7 +29,9 @@ In Feb 2010, I built (with the help of my friend) and released the beta version 
 In 2015, I wrote a book called [Building Web Applications Using Parse REST API
 ](https://leanpub.com/building-web-applications-using-parse-rest-api), where I shared some tips of how to use `Parse.com` as a data-store for a real application.
 
-In mid 2019 I built [Domain Book App](https://domainbook.dev), an easy and straightforward way to monitor your domains' expiration date. It is like a phonebook for your domains, it is built using `VueJS` and `ElectronJs`.
+In mid 2019 I built Domain Book App, an easy and straightforward way to monitor your domains' expiration date. It is like a phonebook for your domains, it is built using `VueJS` and `ElectronJs`.
+
+In late 2022 I released a web version of my Domain Book App and I called it [Domains Book](https://domainsbook.app), an easy and straightforward way to monitor your domains' expiration date. Built using `Laravel`, `Inertiajs`, `VueJS` and `PostgreSQL`.
 
 Currently, I am working as a freelancer helping other companies achieve their goals.
 
