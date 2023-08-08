@@ -40,6 +40,7 @@ jobs:
           template: classic
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
+  
   lines:
     runs-on: ubuntu-latest
     steps:
@@ -50,11 +51,6 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: "repositories"
           plugin_lines: yes
-          # Options
-          user: zaherg
-          template: classic
-          base: header
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
           
   acti_comm:
     runs-on: ubuntu-latest
