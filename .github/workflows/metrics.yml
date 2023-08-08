@@ -137,7 +137,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: jessfraz
+          user: zaherg
           template: classic
           base: repositories
           config_timezone: ${{ secrets.USER_TIMEZONE }}
