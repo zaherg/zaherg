@@ -138,19 +138,19 @@ jobs:
           plugin_languages: yes
 
 
-  repositories:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: assets/images/repositories.svg
-          # You'll need to setup a personal token in your secrets.
-          token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+#   repositories:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: lowlighter/metrics@latest
+#         with:
+#           filename: assets/images/repositories.svg
+#           # You'll need to setup a personal token in your secrets.
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           # GITHUB_TOKEN is a special auto-generated token used for commits
+#           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
-          # Options
-          user: zaherg
-          template: classic
-          base: repositories
-          config_timezone: ${{ secrets.USER_TIMEZONE }}
+#           # Options
+#           user: zaherg
+#           template: classic
+#           base: repositories
+#           config_timezone: ${{ secrets.USER_TIMEZONE }}
