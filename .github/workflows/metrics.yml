@@ -15,7 +15,7 @@ jobs:
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           filename: assets/images/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
