@@ -2,23 +2,25 @@
 
 <img src="https://res.cloudinary.com/zaher/image/upload/ar_1:1,bo_0px_solid_rgb:000000,c_fill,dpr_auto,e_unsharp_mask:100,f_webp,g_face:center,h_253,r_max,w_240,z_0.6/v1578997598/zahme-site/IMG_4355_face.jpg" height="253" align="right" />
 
-My name is Zaher ('za-her) Ghaibeh ([http://pronoun.is/he](http://pronoun.is/he)), Syrian living in Istanbul. I have recently graduated from [Bahcesehir](http://bau.edu.tr/) University with a Master's  in Entrepreneurship and Innovation Management (Class 2022). Also, I hold a Bachelor's degree in Information technology (2009) & a Diploma in Computing and Business Applications (2006) from the Syrian Virtual University. I also hold a Diploma in Information Technology (2003) from Damascus University.
+Greetings, I'm Zaher Ghaibeh, but you can call me ‘za-her’ (pronouns: [he/him](http://pronoun.is/he)). I'm a Syrian technophile and entrepreneur, currently soaking up the vibrant culture of Istanbul.
 
-On the professional side, I work as a senior backend (full-stack) developer and an entrepreneur. I love new shiny technologies (but I code mainly in PHP). I use `Laravel`, `VueJS`, `LiveWire`, `AlpineJS`, `TailwindCSS`, and `Docker` in my work.
+Fresh off the academic press, I earned my Master's in Entrepreneurship and Innovation Management from Bahcesehir University, Class of 2022. But wait, there's more! I also boast a Bachelor's in Information Technology from the Syrian Virtual University (2009), a Diploma in Computing and Business Applications from the same institution (2006), and another Diploma in Information Technology from Damascus University (2003).
 
 
-### Personal Projects
+### The Professional Me
+By day, I'm a senior backend who dabbles in full-stack development. My toolkit? A smorgasbord of cutting-edge tech, though `PHP` holds a special place in my heart. `Laravel`, `VueJS`, `LiveWire`, `AlpineJS`, `TailwindCSS`, and `Docker` are my trusty sidekicks in the digital realm.
 
-In Feb 2010, I built (with the help of my friend) and released the beta version of a SaaS product called [Msrofi](https://thenextweb.com/news/msrofi-com-easier-arabic-financial-decisions), a personal financial SaaS project; sadly we had to close it in 2012 due to many issues part of them were financial issues, remember this project was launched in Syria in 2010.
+### My Creative Ventures
+Over the years, I've embarked on a few passion projects that have shaped my journey:
 
-In 2015, I wrote a book called [Building Web Applications Using Parse REST API
-](https://leanpub.com/building-web-applications-using-parse-rest-api), where I shared some tips on how to use `Parse.com` as a data store for a real application.
+- **Msrofi**: In early 2010, my friend and I launched a personal finance SaaS venture. Though it was a product of its time and place—Syria in 2010—it had to be shelved in 2012 due to a myriad of financial challenges.
 
-In mid-2019, I built a macOS desktop application called **Domain Book App**, an easy and straightforward way to monitor your domains' expiration date. It is like a phonebook for your domains; it is built using `VueJS` and `ElectronJs`.
+- **Building Web Applications Using Parse REST API**: Fast forward to 2015; I penned this book to share my experience using `Parse.com` as a robust data store for real-world applications.
 
-In late 2022 I released a web version of my *Domain Book App*, and I called it **[Domains Book](https://domainsbook.app)**, an easy and straightforward way to monitor your domains' expiration date. Built using `Laravel`, `Inertiajs`, `VueJS`, and `PostgreSQL`.
+- **Domain Book App**: In the summer of 2019, I crafted a macOS desktop application designed to be your digital domain Rolodex. Built with `VueJS` and `ElectronJs`, it's your go-to for keeping tabs on domain expiration dates.
 
-Currently, I am working as a freelancer helping other companies achieve their goals.
+- **Domains Book**: As of late 2022, I've taken Domain Book App to the [web](https://domainsbook.app)! This online version is engineered using `Laravel`, `Inertiajs`, `VueJS`, and `PostgreSQL`.
+
 
 ### Github Stats
 
