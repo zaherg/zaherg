@@ -8,5 +8,3 @@ My name is Zaher Ghaibeh, you can reach me via one of the links below
 [![Docker Hub](https://img.shields.io/badge/Docker-309cef?logo=docker&logoColor=white)](https://hub.docker.com/u/zaherg)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white)](https://twitter.com/zaherg)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaherg/)
-
-![](assets/images/iso_calender.svg) ![](assets/images/issue_pr_lang.svg) 
